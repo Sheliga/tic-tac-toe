@@ -13,7 +13,16 @@ Execute o comando npm start para iniciar o servidor de desenvolvimento.
 Abra o navegador e navegue até http://localhost:3000 para jogar o Tic Tac Toe.
 
 # Como Jogar
-Para jogar, basta clicar em um dos quadrados vazios no tabuleiro para marcar com o seu marcador (X ou O). Os jogadores se alternam para marcar os quadrados. O primeiro jogador a conseguir marcar três quadrados em linha (horizontal, vertical ou diagonal) ganha o jogo.
+1. Abra o aplicativo em seu navegador em [https://seuusername.github.io/nome-do-projeto](https://sheliga.github.io/tic-tac-toe/) .
+
+2. O jogo começa com o jogador X. Clique em uma célula vazia para colocar sua marca.
+
+3. O objetivo do jogo é colocar três marcas em linha reta: horizontal, vertical ou diagonal. O jogador que conseguir isso primeiro vence o jogo.
+
+4. Se nenhuma marca estiver em linha reta e todas as células estiverem preenchidas, o jogo termina em empate.
+
+5. O jogador pode reiniciar o jogo a qualquer momento clicando no botão "Reiniciar".
+
 
 # Contribuição
 Se você quiser contribuir com este projeto, fique à vontade para fazer um fork do repositório e enviar um pull request com suas melhorias. Todas as contribuições são bem-vindas!
